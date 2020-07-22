@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tiket Test</string>
+    <string name="no_results">No Results Found!</string>
+    <string name="loading">Loading...</string>
+    <string name="txt_search_hint">Search Github users</string>
+    <string name="txt_search">Searching...</string>
+    <string name="txt_offline">You are offline!</string>
+</resources>
